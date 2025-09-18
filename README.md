@@ -49,6 +49,8 @@ I'm always happy to connect! Reach out or follow me on:
 ## 📷 Preview | Screenshots
 
 ![Homepage Screenshot](img/sc1.png)
+
+
 ![Homepage Screenshot](img/sc2.png)
 ![Homepage Screenshot](img/sc3.png)
 ![Homepage Screenshot](img/sc4.png)
