@@ -21,7 +21,7 @@ A simple HTML/CSS clone of a cleaning services website, built for practicing fro
 https://yasin-tahmasbi.github.io/avada-cleaning-services/
 [پیش‌نمایش آنلاین](https://username.github.io/repository-name/)
 
-![Homepage Screenshot](images/homepage.png)  
+![Homepage Screenshot](img/sc1.png)  
 اسکرین‌شات صفحه اصلی
 
 ---
