@@ -3,7 +3,7 @@
 
 A practice project inspired by the design of Avada Cleaning Services website, built using only HTML and CSS.
 
-🔗 [Live Demo](https://yasin-tahmasbi.github.io/avada-cleaning-services/)
+🔗 <a href="https://yasin-tahmasbi.github.io/avada-cleaning-services/" target="_blank">Live Demo</a>
 
 ## ✨ Project Overview
 
