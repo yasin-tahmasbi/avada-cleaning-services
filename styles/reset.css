@@ -1,0 +1,29 @@
+*, *::before, *::after{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 100%;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    &:visited{
+        color: inherit;
+    }
+}
+input{
+    border: none;
+    outline: none;
+}
+.bt{
+    border:1px solid red;
+}
+.row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
