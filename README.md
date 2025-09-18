@@ -53,3 +53,4 @@ I'm always happy to connect! Reach out or follow me on:
 ![Homepage Screenshot](img/sc3.png)
 ![Homepage Screenshot](img/sc4.png)
 ![Homepage Screenshot](img/sc5.png)
+![Homepage Screenshot](img/sc6.png)
