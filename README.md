@@ -55,10 +55,11 @@ Everything you need is on my website 👇
 
 ![Homepage Screenshot](img/sc4.png)
 
-- **Inspired by:** [Avada Cleaning Services](https://avada.website/cleaning-services/)
-
 
 ![Homepage Screenshot](img/sc5.png)
 
 
 ![Homepage Screenshot](img/sc6.png)
+
+
+- **Inspired by:** [Avada Cleaning Services](https://avada.website/cleaning-services/)
