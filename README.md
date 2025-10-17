@@ -34,16 +34,12 @@ Built as a hands-on exercise to practice layout design, CSS styling, and clean c
 - **Developed by:** Yasin Tahmasbi
 - **Date:** Sep , 2025
 - **Mentorship:** [Parsa Ghorbanian](https://www.instagram.com/parsa_ghorbanian_web/#)
-## **🔗 Connect with Me**
 
-I'm always happy to connect! Reach out or follow me on:
+## **🔗 Want to reach out?**
 
--  [**Instagram**](https://www.instagram.com/yasin_tahmasbii)
--  [**LinkedIn**](https://www.linkedin.com/in/yasin-tahmasbi)
--  [**GitHub**](https://github.com/yasin-tahmasbi)
--  [**Email**](mailto:yasintahmasb@gmail.com)
+Everything you need is on my website 👇
 
-- **Inspired by:** [Avada Cleaning Services](https://avada.website/cleaning-services/)
+-  [**www.yasintahmasbi.ir**](https://www.yasintahmasbi.ir)
 
 
 ## 📷 Preview | Screenshots
@@ -58,6 +54,8 @@ I'm always happy to connect! Reach out or follow me on:
 
 
 ![Homepage Screenshot](img/sc4.png)
+
+- **Inspired by:** [Avada Cleaning Services](https://avada.website/cleaning-services/)
 
 
 ![Homepage Screenshot](img/sc5.png)
